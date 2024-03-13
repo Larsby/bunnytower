@@ -1,8 +1,9 @@
 # bunnytower
 The game BunnyTower
 
-![image](https://github.com/Larsby/bunnytower/blob/main/Assets/logo.jpg)
 
+![image](https://github.com/Larsby/bunnytower/blob/main/Assets/Images/logo.jpg)
+         
 This game was made by Pastille AB a game studio somewhere between the year 2015 and early 2019. We are clowing down the company for good and did not want to split the IP between the companies that owned Pastille. 
 
 We thought it was a much better idea to put the graphics, the audio and the source for everyone to use.
