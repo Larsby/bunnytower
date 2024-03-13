@@ -139,3 +139,16 @@ Library/expandedItems
 Library/*
 ProjectSettings/*
 Temp/*
+*.meta
+/Assets/AmplifyMotion
+/Assets/Elemental Free
+/Assets/GE Common Assets
+/Assets/Particle Ribbon
+/Assets/PlayServicesResolver
+/Assets/Plugins/Android
+/Assets/Plugins/iOS/Facebook/Bolts.framework
+/Assets/Plugins/iOS/Facebook/FBSDKCoreKit.framework
+/Assets/Plugins
+/Assets/Standard Assets
+/Assets/UniRate
+Assets/Images/bg.psd
